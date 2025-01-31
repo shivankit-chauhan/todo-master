@@ -1,1 +1,1 @@
-# todo-master
+I have Build a simple to-do list application ( web app ) using JavaScript to understand DOM manipulation, event handling, and basic JavaScript concepts. The application will feature task addition, deletion, and a clean, user-friendly interface.
